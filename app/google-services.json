@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085982555738",
+    "project_id": "registrogym-93251",
+    "storage_bucket": "registrogym-93251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085982555738:android:e564f57d3bfaec7afa2263",
+        "android_client_info": {
+          "package_name": "com.example.registrogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085982555738-s11qie9glhqkg612n19l0p5dr3ncb1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1FOG0vyffUZB3fd9xXael6imQXVq3v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085982555738-s11qie9glhqkg612n19l0p5dr3ncb1el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
